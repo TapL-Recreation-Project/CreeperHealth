@@ -1,0 +1,9 @@
+name: CreeperHealth
+version: ${project.version}
+main: me.swipez.creeperhealth.CreeperHealth
+api-version: 1.16
+authors: [ notnotnotswipez ]
+commands:
+  creeperhealth:
+    usage: /creeperhealth <start/stop>
+    description: Starts and stops the creeper health challenge!
